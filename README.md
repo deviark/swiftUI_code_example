@@ -9,7 +9,10 @@ Code shows usage:
 Some code for the Home and Profile screens is shown here.
 
 Home screen:
-![IMG_6681](https://github.com/deviark/swiftUI_code_example/assets/57797544/bc942b13-03e3-4bac-bab1-886e113534c0)
+
+
+![IMG_6681](https://github.com/deviark/swiftUI_code_example/assets/57797544/5acbf4fc-7852-45b8-9a0d-e5dbe5ae4242)
+
 
 
 
@@ -20,5 +23,8 @@ Home screen:
 
 
 Profile screen:
-![IMG_6682](https://github.com/deviark/swiftUI_code_example/assets/57797544/3891bf57-15a0-4c76-b3d0-7fc8bebd81b6)
+
+
+![IMG_6682](https://github.com/deviark/swiftUI_code_example/assets/57797544/8b4a5b56-a55d-4fdd-a438-dcb9a07c321c)
+
 
