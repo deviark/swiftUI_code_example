@@ -3,7 +3,8 @@ A simple SwiftUI code example in a Document Scanning app.
 
 Code shows usage: 
 - SwiftUI;
-- Firebase (for data storage and authorization); 
+- Firebase (for data storage and authorization);
+- Async/Await; 
 - MVVM architecture.
 
 Some code for the Home and Profile screens is shown here.
